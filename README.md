@@ -1,4 +1,4 @@
-<h1 align="center"style="color:#c61aff;" >Hi I'm Daniel Halls (aka WMDA)</h1>
+<h1 align="center"style="color:#c61aff;" >Hi I'm Daniel Halls</h1>
 <h3 align="center" style="color:#ff1aff;">Neuroimaging and Data science by day. Hacking by night.</h3></br>
 <h3 style="color:#c61aff;" align="left"><b>whoami</b></h3>
 <p align="left">Into data analysis/data science/neuroimaging/anything on a terminal. By night a CTF player on try hack me and hack the box.<br></p>
