@@ -5,7 +5,7 @@
 
 <h3 style="color:#c61aff;" align="left"><b>cat my research or ln with me professionally:</b></h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel-john-halls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-john-halls" height="40" width="20" /></a><a href="https://www.researchgate.net/profile/Daniel-Halls" target="blank" rel="noreferrer"> <img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1470150968/halqcskldv3ge9nkpjsq.png" alt="rg" width="40" height="40"/></a><br>
+<a href="https://linkedin.com/in/daniel-john-halls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-john-halls" height="40" width="20" /></a><a href="https://www.researchgate.net/profile/Daniel-Halls" target="blank" rel="noreferrer"> <img align="center" src="[https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1470150968/halqcskldv3ge9nkpjsq.png](https://pbs.twimg.com/profile_images/1676195477795078145/EFykJcDr_400x400.png)" alt="rg" width="40" height="40"/></a><br>
 </p>
 
 <h3 style="color:#c61aff;" align="left"><b>ln for CTF:<br></h3>
