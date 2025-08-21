@@ -8,10 +8,6 @@
 <a href="https://linkedin.com/in/daniel-john-halls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-john-halls" height="40" width="20" /></a><a href="https://www.researchgate.net/profile/Daniel-Halls" target="blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="rg" width="40" height="40"/></a><br>
 </p>
 
-<h3 style="color:#c61aff;" align="left"><b>ln for CTF:<br></h3>
-<p align="left">
-<a href="https://tryhackme.com/p/WMDA" target="blank"><img align="center" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" alt="daniel-john-halls" height="40" width="40" /></a><a href="https://app.hackthebox.com/users/705614" target="_blank" rel="noreferrer"> <img align="center" src="https://app.hackthebox.com/images/logos/logo-htb.svg" alt="htb" width="40" height="40"/></p></a>
-
 <h3 align="left"style="color:#c61aff;"><b>which languages/tools (click on icons to see repos where I have used these tools/languages:</b></h3> 
 <p align="left"> 
 <a href="https://github.com/WMDA/SCN" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
