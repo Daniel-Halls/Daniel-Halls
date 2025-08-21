@@ -1,7 +1,7 @@
 <h1 align="center"style="color:#c61aff;" >Hi I'm Daniel Halls</h1>
 <h3 align="center" style="color:#ff1aff;"></h3></br>
 <h3 style="color:#c61aff;" align="left"><b>whoami</b></h3>
-<p align="left">My interest is improving ways to analyse neuroimaging data so we can better understand mental health conditions. I am also a CTF player on try hack me and hack the box.<br></p>
+<p align="left">My interest is improving ways to analyse neuroimaging data so we can better understand mental health conditions.<br></p>
 
 <h3 style="color:#c61aff;" align="left"><b>cat my research or ln with me professionally:</b></h3>
 <p align="left">
